@@ -1,4 +1,4 @@
-# Meteor Kitche example Todo Application
+# Meteor Kitchen Example Todo Application
 
 *  Install meteor
 *  Install meteor-kitchen
