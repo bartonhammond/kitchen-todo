@@ -115,7 +115,7 @@
 							"name": "home_jumbotron",
 							"title": "Todo application",
 							"type": "jumbotron",
-							"text": "<b>This <a href=\"https://www.meteor.com\" target=\"_blank\">Meteor</a> application is made with <a href=\"http://www.meteorkitchen.com\" target=\"_blank\">meteor-kitchen</a> with little coding.</b><br />It demonstrates how to create a ToDo application with login, register and forgot password functions.<br />Source code (input files for generator) is <a href=\"https://github.com/bartonhammond/kitchen-todo.git\" target=\"_blank\">here</a>.1",
+							"text": "<b>This <a href=\"https://www.meteor.com\" target=\"_blank\">Meteor</a> application is made with <a href=\"http://www.meteorkitchen.com\" target=\"_blank\">meteor-kitchen</a> with little coding.</b><br />It demonstrates how to create a ToDo application with login, register and forgot password functions.<br />Source code (input files for generator) is <a href=\"https://github.com/bartonhammond/kitchen-todo.git\" target=\"_blank\">here</a>.",
 							"button_title": "Continue &raquo;",
 							"button_route": "register",
 							"": "",
